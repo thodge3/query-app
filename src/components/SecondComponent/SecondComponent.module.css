@@ -1,0 +1,10 @@
+.h1 {
+    color: teal;
+    transition: transform .5s;
+
+}
+
+.h1:hover {
+    color:red;
+    transform: scale(1.08) ;
+}
